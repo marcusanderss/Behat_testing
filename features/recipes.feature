@@ -1,6 +1,5 @@
 @recipes 
- Feature: 
-  Publish my best recipes
+ Feature: Publish my best recipes
 
  @cake
  Scenario: Cake main page
